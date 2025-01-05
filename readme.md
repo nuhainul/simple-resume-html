@@ -1,3 +1,9 @@
+Live site URL:  https://nuhainul.github.io/simple-resume-html 
+GitHub Repository: https://github.com/nuhainul/simple-resume-html
+
+
+
+
 
 মডিউল-09 প্রজেক্ট
 
